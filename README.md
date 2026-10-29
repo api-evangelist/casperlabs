@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Casperlabs is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/casperlabs
+Casperlabs (formerly known as Casper Network) is a public, permissionless blockchain platform focused on real‑world asset tokenization, enterprise‑grade smart contracts, and AI‑enabled tooling. It offers a Proof‑of‑Stake consensus, WebAssembly execution, and a suite of developer resources including SDKs, documentation, and an AI Toolkit. The ecosystem supports decentralized finance, NFTs, liquid staking, and quantum‑safe cryptography, targeting institutions, developers, and end‑users seeking secure, scalable blockchain solutions.
+
+**Areas:** Blockchain · Smart-Contracts · Enterprise · AI-Toolkit · Decentralized-Finance
+
+## Casperlabs on APIs.io
+
+Everything profiled for Casperlabs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/casperlabs/](https://apis.io/providers/casperlabs/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Casper Developer API](https://apis.io/apis/casperlabs/casper-developer-api/) — API for Casper blockchain developers, providing endpoints for deploying contracts, querying state, and managing accounts.
+- [Casperlabs Casperlabs API](https://apis.io/apis/casperlabs/casperlabs-casperlabs-api-api/) — The Casperlabs API API from Casperlabs — 1 operation(s) for casperlabs api.
+- [Casperlabs Metrics API](https://apis.io/apis/casperlabs/casperlabs-metrics-api/) — The Metrics API from Casperlabs — 1 operation(s) for metrics.
+- [Casperlabs Status API](https://apis.io/apis/casperlabs/casperlabs-status-api/) — The Status API from Casperlabs — 1 operation(s) for status.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [GetResponse](https://apis.io/schemas/casperlabs/casperlabs-get-response/)
+- [GetStatusResponse](https://apis.io/schemas/casperlabs/casperlabs-get-status-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Casperlabs Context](https://apis.io/jsonld/casperlabs/casperlabs-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Casperlabs API Rules](https://apis.io/rules/casperlabs/casperlabs-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Casperlabs Domain Security](https://apis.io/security/casperlabs/casperlabs-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.casper.network)
+- [Documentation](https://developer.casper.network/)
+- [Getting started](http://docs.casper.network/condor/tags/setup)
+- [Blog](https://www.casper.network/blog)
+- [Terms of service](https://www.casper.network/terms-of-use)
+- [Privacy policy](https://www.casper.network/privacy-policy)
+- [GitHub](https://github.com/casper-network)
+
+## API Evangelist rating
+
+**Kin Score 33.6** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 22.3 |
+| Contract governance | 22.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 57.1 |
+
+**Agent readiness 17.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | na |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | na |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | na |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/casperlabs/](https://apis.io/providers/casperlabs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Casperlabs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/casperlabs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
